@@ -1,0 +1,8 @@
+[[constraint]]
+  name = "github.com/pelletier/go-toml"
+  version = "^1.0.0"
+
+[metadata]
+heroku-go = "1.8"
+heroku-install = "1.8"
+heroku-root = "foo"
